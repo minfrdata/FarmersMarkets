@@ -1,0 +1,12 @@
+name: shinyapp
+title:
+username:
+account: mxiao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 594621
+bundleId: 1740203
+url: https://mxiao.shinyapps.io/shinyapp/
+when: 1543953343.40745
+asMultiple: FALSE
+asStatic: FALSE
